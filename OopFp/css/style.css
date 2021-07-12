@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body{background-image: url(../tumblr_238ba4adfa86153ecfb1966596ef4af1_0acfeb0c_500.gif); font-family: 'Roboto', sans-serif;}
+#text_wrap{text-align: center; display: flex; text-align: center; height: 100vh; width: 100%; align-items: center;}
+#text_wrap h1{color: #fff; display: inline-block; width: 100%;}
